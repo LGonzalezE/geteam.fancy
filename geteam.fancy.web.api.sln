@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "geteam.fancy.web.api", "geteam.fancy.web.api\geteam.fancy.web.api.csproj", "{6D2B7B8F-408A-4996-98DB-89AB956C989B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "geteam.fancy.models", "geteam.fancy.models\geteam.fancy.models.csproj", "{2586F37D-12A9-47E1-ADB7-05B41C7B8101}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6D2B7B8F-408A-4996-98DB-89AB956C989B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D2B7B8F-408A-4996-98DB-89AB956C989B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D2B7B8F-408A-4996-98DB-89AB956C989B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D2B7B8F-408A-4996-98DB-89AB956C989B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2586F37D-12A9-47E1-ADB7-05B41C7B8101}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2586F37D-12A9-47E1-ADB7-05B41C7B8101}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2586F37D-12A9-47E1-ADB7-05B41C7B8101}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2586F37D-12A9-47E1-ADB7-05B41C7B8101}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
